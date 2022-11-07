@@ -1,0 +1,3 @@
+Navbar
+1=>npm i react-roiter-dom;
+2=>go to index.js file and import browserrouter
